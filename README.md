@@ -1,4 +1,5 @@
 # 🚀 Yahoo Finance Batch Data Pipeline
+End-to-End Data Engineering Pipeline using Python, PostgreSQL, Kafka, Spark, and MinIO
 
 ## 📌 Project Overview
 
