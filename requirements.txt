@@ -1,0 +1,7 @@
+yfinance
+pandas
+numpy
+psycopg2-binary
+kafka-python
+pyspark
+minio
